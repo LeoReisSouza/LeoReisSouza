@@ -1,7 +1,5 @@
 ## Olá, sou o Leo! 👋
-
 <br>
-   <br> 
 Dev Front-end e Back-end
 <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/leonardo-reis-04462220a)]
@@ -22,5 +20,6 @@ Dev Front-end e Back-end
     <img align="center" alt="react" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     
 
+<br>
 <br>
 Entusiasta de programação, busco desenvolver minhas habilidades.
