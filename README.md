@@ -1,13 +1,15 @@
 ## Olá, sou o Leo! 👋
-Dev Front-end & Back-end
+
+- 👾 Dev Front-end & Back-end
+- ✏️ IFSP - Instituto Federal de São Paulo
+
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/leonardo-reis-04462220a)
 <a href = "mailto:leonardoleoreissouza05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <br>
-
-### 💻 Tecnologias que trabalho:
+### Tecnologias que trabalho 🌐:
 <br>
 <div style="display inline-block">
     <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
