@@ -1,8 +1,9 @@
 ## Olá, sou o Leo! 👋
-<br>
 <div style="display inline-block">
+<br>
+    
 Dev Front-end e Back-end
-
+<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/leonardo-reis-04462220a)
 
 <br>
