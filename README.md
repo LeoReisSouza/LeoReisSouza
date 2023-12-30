@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff6e96&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2f4538&height=120&section=header"/>
 ## Olá, sou o Leo! 👋
 
 - 👾 Dev Front-end & Back-end
@@ -25,4 +25,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/leonardo-reis-04462220a)
 <a href = "mailto:leonardoleoreissouza05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff6e96&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2f4538&height=120&section=footer"/>
