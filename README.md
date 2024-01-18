@@ -3,7 +3,6 @@
 - 👾 Dev Front-end & Back-end
 - ✏️ IFSP - Instituto Federal de São Paulo
 - 💻 Portfolio: <https://leoreissouza.github.io/portifolio/>
-https://leoreissouza.github.io/portifolio/
 <br>
 
 ### Tech skills:
