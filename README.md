@@ -1,6 +1,6 @@
 ## Olá, sou o Leo! 👋
 
-- 👾 Dev Front-end & Back-end
+- 👾 Dev Full-Stack & Product Owner
 - ✏️ IFSP - Instituto Federal de São Paulo
 - 💻 Portfolio: <https://leoreissouza.github.io/portfolio/>
 <br>
@@ -8,7 +8,6 @@
 ### Tech skills:
  <div style="display: inline_block"><br>
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">
-  <img align="center" alt="laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
