@@ -22,5 +22,5 @@
 ### Contato:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/leonardo-reis-04462220a)
-<a href = "mailto:leonardoleoreissouza05@gmail.com"><img src="https://img.shields.io/badge/email-6e6e6e?style=for-the-badge&logo=gmail&logoColor=white" alt="email"></a>
+<a href = "mailto:leonardoleoreissouza05@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
