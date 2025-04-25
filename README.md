@@ -25,7 +25,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/leonardo-reis-04462220a)
 <a href = "mailto:leonardoleoreissouza05@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
---
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoreissouza&layout=compact&langs_count=8&theme=default&bg_color=ffffff&title_color=2ecc71&text_color=333333&icon_color=2ecc71"/>
 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoreissouza&layout=compact&langs_count=8&theme=gruvbox_light"/>
+
 
