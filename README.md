@@ -27,9 +27,5 @@
 
 --
 
-<div align="right">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoreissouza&layout=compact&langs_count=8&theme=gruvbox_light"/>
-  <br><br>
-  <strong>🐱‍🏍 Quer jogar o Dino do Chrome?</strong><br>
-  ⚠️ <em>O GitHub não permite rodar o jogo direto aqui, mas você pode jogar no seu portfólio ou [clicar aqui para jogar](https://chromedino.com/)</em>
-</div>
+
