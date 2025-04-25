@@ -25,3 +25,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/leonardo-reis-04462220a)
 <a href = "mailto:leonardoleoreissouza05@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+--
+
+<div align="right">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoreissouza&layout=compact&langs_count=8&theme=gruvbox_light"/>
+  <br><br>
+  <strong>🐱‍🏍 Quer jogar o Dino do Chrome?</strong><br>
+  ⚠️ <em>O GitHub não permite rodar o jogo direto aqui, mas você pode jogar no seu portfólio ou [clicar aqui para jogar](https://chromedino.com/)</em>
+</div>
